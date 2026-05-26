@@ -195,5 +195,5 @@ Ketika kapasitas kampanye tidak mencukupi untuk menghubungi semua nasabah yang d
 ---
 
 <p align="center">
-  <b>Made by Alpha Group</b>
+  <b>Made by Alpha Team</b>
 </p>
